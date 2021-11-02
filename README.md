@@ -6,9 +6,11 @@ function AboutMe(){
     return(
         <>
             <Container>
+    
                 <Typography  variant="h1">
                     Hola! Mi nombre es Maxi y te voy a contar sobre mi:
                 </Typography>
+    
                 <Typography variant="h4">
                     
                     Tengo 32 años, soy productor de musica electronica 
@@ -38,12 +40,14 @@ function AboutMe(){
                     
 
                 </Typography>
-                    <h6>
-                       <p>¿Donde me encontras?</p>
-                       <a href="requenamaximiliano@gmail.com" >Email</a>
-                       <a href="https://github.com/maxxrequena">GitHub</a>
-                       <a href="https://www.linkedin.com/in/maximilianorequena/">Linkedin</a>
-                    </h6>
+                   
+                <h6>
+                     <p>¿Donde me encontras?</p>
+                     <a href="requenamaximiliano@gmail.com" >Email</a>
+                     <a href="https://github.com/maxxrequena">GitHub</a>
+                     <a href="https://www.linkedin.com/in/maximilianorequena/">Linkedin</a>
+               </h6>
+    
             </Container>
         </>
     )
