@@ -24,7 +24,7 @@ function AboutMe(){
                       ReactNative,
                       Redux,
                       Node.js,
-                      TypeScrip,
+                      TypeScript,
                       Sequelize,
                       MongoDB, 
                       Express,
