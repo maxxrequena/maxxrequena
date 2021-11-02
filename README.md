@@ -17,7 +17,7 @@ function AboutMe(){
                     ¿Por que tengo que estar en tu equipo?
                     Por que soy una persona flexible para cualquier equipo de trabajo, 
                     responsable, compañero, autodidacta y con mucho temple 
-                    que me permite trabajar en cualquier ambiente y situacion que se presente. 
+                    que me permite desenvolverme en cualquier ambiente y situacion que se presente. 
 
                     const[skills, setSkills] = useState({
                       JavaScrip,
