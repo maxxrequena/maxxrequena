@@ -41,9 +41,9 @@
                
             <h6>
                  <p>¿Donde me encontras?</p>
-####                 <a href="requenamaximiliano@gmail.com" >Email</a>
-####                 <a href="https://github.com/maxxrequena">GitHub</a>
-####                 <a href="https://www.linkedin.com/in/maximilianorequena/">Linkedin</a>
+                 <a href="requenamaximiliano@gmail.com" >Email</a>
+                 <a href="https://github.com/maxxrequena">GitHub</a>
+                 <a href="https://www.linkedin.com/in/maximilianorequena/">Linkedin</a>
            </h6>
 
         </Container>
