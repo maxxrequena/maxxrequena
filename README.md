@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h4>
+<>
 function AboutMe(){
     
     return(
@@ -55,4 +55,4 @@ function AboutMe(){
 
 export default AboutMe;
 
-</h4>
+</>
