@@ -1,15 +1,8 @@
 ### Hi there 👋
 
-<>
-    
-</>
-
-
-
-
-AboutMe() =>
-    return(
-        <>
+     AboutMe() =>
+        return(
+          <>
             <Container>
     
                 <Typography  variant="h1">
@@ -55,5 +48,5 @@ AboutMe() =>
     
             </Container>
         </>
-    )}
+    );
 
