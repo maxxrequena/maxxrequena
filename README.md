@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<>
-function AboutMe(){
-    
+
+
+
+
+AboutMe() =>
     return(
         <>
             <Container>
@@ -50,9 +52,5 @@ function AboutMe(){
     
             </Container>
         </>
-    )
-}
+    )}
 
-export default AboutMe;
-
-</>
