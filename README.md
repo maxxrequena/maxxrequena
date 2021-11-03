@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 ####    AboutMe() =>
 ####      return(
@@ -20,20 +20,20 @@
 ####                que me permite desenvolverme en cualquier ambiente y situacion que se presente. 
 ####
 ####                const[skills, setSkills] = useState({
-####                  JavaScrip,
-####                  React,
-####                  ReactNative,
-####                  Redux,
-####                  Node.js,
-####                  TypeScript,
-####                  Sequelize,
-####                  MongoDB, 
-####                  Express,
-####                  Material UI,
-####                  CSS,
-####                  HTML,
-####                  GitHub,
-####                  Scrum : [{Metodologias agiles}]
+####                        JavaScrip,
+####                        React,
+####                        ReactNative,
+####                        Redux,
+####                        Node.js,
+####                        TypeScript,
+####                        Sequelize,
+####                        MongoDB, 
+####                        Express,
+####                        Material UI,
+####                        CSS,
+####                        HTML,
+####                        GitHub,
+####                        Scrum : [{Metodologias agiles}]
 ####                }) 
                     
 
