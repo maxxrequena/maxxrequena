@@ -38,6 +38,7 @@ const AboutMe {
         MongoDB,
         Express,
         Material UI,
+        TailwindCss,
         CSS,
         HTML,
         GitHub,
