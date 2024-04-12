@@ -1,48 +1,5 @@
 # Hi there, I'm Maxi !
 
-```javascript
-
-const AboutMe {
-  return(
-
-    <Container>
-
-      <Typography  variant="h1">
-
-        Hola! Mi nombre es Maxi !
-
-      </Typography>
-
-      const[skills, setSkills] = useState({
-        JavaScrip,
-        React,
-        ReactNative,
-        Redux,
-        Node.js,
-        TypeScript,
-        Sequelize,
-        MongoDB,
-        Express,
-        Material UI,
-        TailwindCss,
-        CSS,
-        HTML,
-        GitHub,
-        Scrum : [{Metodologias agiles}]
-      });
-      
-      {
-        <p>¿Donde me encontras?</p>
-  
-          <a href="requenamaximiliano@gmail.com" > Email </a>
-          <a href="https://github.com/maxxrequena"> GitHub </a>
-          <a href="https://www.linkedin.com/in/maximilianorequena/"> Linkedin </a>
-      }
-
-
-  </Container>
-}
-```
 
 ### Tech Stack
 
