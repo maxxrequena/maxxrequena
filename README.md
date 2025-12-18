@@ -1,7 +1,26 @@
 # Hi there, I'm Maxi !
 
+Front End Developer — Iurco SAS | Abr 2022 – Nov 2025
 
-### Tech Stack
+Desarrollo y mantenimiento de eCommerce y PWAs para múltiples marcas (Felfort/Lázaro Cuero, Newsan/Hisense, Nestlé, Reebok, Crocs, Piccadilly, Kappa, Tucci, entre otras).
+Implementación de UI y funcionalidades con React (Hooks/Context), Next.js (según proyecto), CSS/Tailwind.
+Integraciones y consumo de datos con GraphQL + conexión con Magento 2.
+Trabajo en equipo bajo Scrum, gestión con Jira, colaboración con diseño en Figma, control de versiones con Git.
+Docente — Instituto Superior de Formación Docente N°91 | Mar 2022 – Actualidad
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=Javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=Typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=Material-ui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=TailwindCSS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=Express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=PostgreSQL&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=MongoDB&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=Heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=Vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=Amazon-AWS&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=CSS3&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=VS-Code&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) 
+Profesor de Desarrollo de Aplicaciones Web (enfoque fullstack) y Bases de Datos.
+Contenidos: Node.js, SQL (MySQL/SQL Server), MongoDB, buenas prácticas y desarrollo orientado a proyectos.
+Acompañamiento técnico, revisión de proyectos y mejora de la comunicación técnica/orden de trabajo.
+Full Stack Web Developer — Distrisuper | Nov 2021 – Mar 2022
+
+Desarrollo de PWA con enfoque mobile para rubro repuestos automotores.
+Stack principal: React, maquetado con SASS/CSS y Material UI.
+Organización de tareas con ClickUp/Trello y trabajo con repositorios en GitHub.
+Proyectos / Formación — Henry Bootcamp | Jun 2021 – Nov 2021
+
+Proyecto tipo eCommerce (H-Learning) y SPA (CountriesApp) con filtros, ordenamientos y funcionalidades principales.
+Trabajo colaborativo con Git/GitHub y metodología de entregas por objetivos.
+Base técnica previa
+
+Frontend Developer — Plan 111 Plus | Mar 2020 – Nov 2020
+Java Developer + MySQL | Feb 2018 – Mar 2019
