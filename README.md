@@ -16,6 +16,8 @@ Full Stack Web Developer — Distrisuper | Nov 2021 – Mar 2022
 Desarrollo de PWA con enfoque mobile para rubro repuestos automotores.
 Stack principal: React, maquetado con SASS/CSS y Material UI.
 Organización de tareas con ClickUp/Trello y trabajo con repositorios en GitHub.
+
+
 Proyectos / Formación — Henry Bootcamp | Jun 2021 – Nov 2021
 
 Proyecto tipo eCommerce (H-Learning) y SPA (CountriesApp) con filtros, ordenamientos y funcionalidades principales.
